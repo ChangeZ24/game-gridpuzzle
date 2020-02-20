@@ -84,7 +84,7 @@ position：用于层的绝对定位，即让一个层位于一个层内具体什
 
    此时，子级使用`position: absolute;`，设置的`top/bottom、left/right`即为距离父级上/下侧、左/右侧的距离，有点类似外边距。
 
-   > **注意**：此时`top/bottom`二选一，`left/right`二选一，只能左上或右下！
+   > **注意**：此时`top/bottom`二选一，`left/right`二选一！
 
 2. 当子级使用`position: absolute;`但父级没有设置`position: relative;`时，无论子级处于 div 哪一层，都会被拖出文档流，以 `body`为父级，所设置的所有 `top/bottom、left/right`都会为距离`body`的上/下侧、左/右侧的距离，不受其父级控制。
 
