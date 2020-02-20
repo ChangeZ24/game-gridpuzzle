@@ -2,7 +2,9 @@
 
 ## 实现效果
 
-![showall]()
+![showall](https://github.com/ChangeZ24/game-gridpuzzle/blob/master/image/showall.gif)
+
+在线试玩地址：
 
 ## 实现功能
 
@@ -40,7 +42,7 @@
 
 > 本游戏共设置 3 关，当每关成功完成拼图，会出现提示`play more`表示进入下一关
 
-![next]()
+![next](https://github.com/ChangeZ24/game-gridpuzzle/blob/master/image/next.gif)
 
 > 当位于最后一关时，成功后只会提示`congratulations`，表示游戏结束。
 
@@ -50,11 +52,11 @@
 
 > 点击暂停游戏后，时间暂停，各活动格也无法点击，只有点击开始游戏继续玩或点击重新开始，重启此关
 
-![pause]()
+![pause](https://github.com/ChangeZ24/game-gridpuzzle/blob/master/image/pause.gif)
 
 > 点击重新开始，会重新启动所在的关卡，重排整个图。
 
-![reset]()
+![reset](https://github.com/ChangeZ24/game-gridpuzzle/blob/master/image/reset.gif)
 
 ## 疑惑/学习点
 
