@@ -4,7 +4,7 @@
 
 ![showall](https://github.com/ChangeZ24/game-gridpuzzle/blob/master/image/showall.gif)
 
-在线试玩地址：
+在线试玩地址： http://awesolynn.me/game-gridpuzzle/gridpuzzle.html
 
 ## 实现功能
 
