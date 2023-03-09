@@ -90,10 +90,6 @@ position：用于层的绝对定位，即让一个层位于一个层内具体什
 
 ## 参考内容
 
-1. 实验楼拼图实现教学
-
-   https://www.shiyanlou.com/courses/161
-
-2. CSS 中 position 相关讲解
+1. CSS 中 position 相关讲解
 
    http://www.divcss5.com/rumen/r403.shtml
